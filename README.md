@@ -1,1 +1,0 @@
-# tchu-quiz
